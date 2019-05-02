@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo Implicit Intent</string>
+    <string name="msg">Hi</string>
+    <string name="se">Send Email</string>
+</resources>
